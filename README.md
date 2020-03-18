@@ -1,6 +1,8 @@
 # Втора задача
 
 Създайте клас TicTacToeBoard който да моделира игра на морски шах
+-----
+[![Build Status](https://travis-ci.com/d0ivanov/mr_robot.svg?branch=master)](https://travis-ci.com/d0ivanov/mr_robot)
 
 ## Методи
 
